@@ -29,6 +29,12 @@
       "name": "Mme. Panda",
       "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
       "votes": 0
+    },
+    {
+      "name": "Mr. Bone",
+      "image": "https://c8.alamy.com/comp/2GM93D1/cute-dog-pixel-art-isolated-on-white-background-bit-icon-pixel-design-illustration-pixel-art-2GM93D1.jpg",
+      "votes": 0,
+      "id": 6
     }
   ]
 }
